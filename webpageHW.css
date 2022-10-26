@@ -1,0 +1,33 @@
+.link-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    background-color: red;
+    color: white;
+}
+
+.image-container{
+    display: flex;
+    margin: 10px;
+}
+
+.link-p{
+    color: red;
+}
+
+.phone-num{
+    color: darkred;
+}
+
+.email{
+    color: darkred;
+}
+
+p3{
+    color: red;
+}
+
+.test-page{
+    color: darkred;
+}
